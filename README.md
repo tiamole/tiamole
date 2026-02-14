@@ -1,4 +1,5 @@
 **PROFILE**
+
 AI Researcher and Machine Learning Engineer specializing in Machine Learning, Agentic AI, Large Language Models (LLMs), and Deep Learning with a proven track record in technical leadership and algorithmic innovation. Spearheaded the development of patent-pending frameworks (TAIWO, PEASSA) and Google-selected benchmarks (CORE-Bench), advancing semantic traceability, reasoning evaluation, and cross-model validation in complex systems. Applied data-driven expertise to industrial automation at Kubota R&D, optimizing testing cycles by 30% and enhancing data accessibility by 85% through the analysis of over 600,000 dataset entries. Passionate about designing robust, production-grade AI solutions that bridge the gap between theoretical modeling and high-impact engineering applications.
 
 **SUMMARY OF QUALIFICATIONS**
